@@ -3,7 +3,7 @@
 
 # Migration workshop for JBoss on Azure
 
-Learn how to migrate an on-premises Jakarta EE application to JBoss EAP using the Migration Toolkit for Applications, then set up GitHub Action workflows to deploy your app to staging environments, and secure your app using the App Service Environment.
+Learn how to migrate an on-premises Jakarta EE application to JBoss EAP using the Migration Toolkit for Applications, then set up GitHub Action workflows to deploy your app to staging environments, and secure your app using the App Service Environment.  This repo can be used in conjunction with the JCM JBOSS EAP Workshop.  
 
 ## Get Started
 
